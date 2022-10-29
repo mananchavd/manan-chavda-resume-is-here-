@@ -12,7 +12,7 @@ Gmail id: mananchavda100@gmail.com
 
 phone number: 7574858088
 
-I have mentioned my GitHub link of job portal project: job portal is a dynamic webapp portal. I have the built unique feature where companies able to change the status of applied candidate and candidates will receives notifications on his dashboard dynamically. job portal gives the bridge of reliability between companies and candidates to perform process in a dynamic manner. You will get very good ideas about my skills in frontend and backend development, database design, product development, users look and fill for interaction, coding structure and happy to share any details with you.
+I have mentioned my GitHub link of job portal project: job portal is a dynamic webapp portal. I have the built unique feature where companies able to change the status of applied candidate and candidates will receives notifications on his dashboard dynamically. job portal will gives very good ideas about my skills in frontend and backend development, database design, product development, users look and fill for interaction, coding structure and happy to share any details with you.
 
 I want to work with the motive to serve the community by solving problems digitally. google is the best match for me regarding career growth, work life, culture, utilizing skills and learning lifecycle. I have front-end and backend skills, hands-on project experience, product development, MVC architecture, and SDLC  process this all makes me able to contribute, learn and explore by benefiting google with constant growth and quality.
 
